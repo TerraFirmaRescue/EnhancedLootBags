@@ -1,3 +1,5 @@
+Forked to use in modpack Terra Firma Rescue.
+
 # EnhancedLootBags
 LootBags redefined. 
 
